@@ -41,6 +41,10 @@ html, p {
   color:#818181;
 }
 
+html {
+  zoom: 90%;
+}
+
 hr.light {
   border: 0; 
   height: 0; 
